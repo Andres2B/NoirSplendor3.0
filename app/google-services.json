@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "463819745278",
+    "project_id": "noirsplendor2",
+    "storage_bucket": "noirsplendor2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463819745278:android:36bd39a046a84bd6e8c2af",
+        "android_client_info": {
+          "package_name": "com.example.noirsplendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463819745278-9i62ohonn06jgpf62lm57vrte9fvblt2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.noirsplendor",
+            "certificate_hash": "65787064d41d6d2f22bbd6185539bf404ecb4003"
+          }
+        },
+        {
+          "client_id": "463819745278-u7b0khr304isccd5bc5162f22p2tiq06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7ZMXQVf4yDWGu2S_q3qCWbiorRv-bAOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463819745278-u7b0khr304isccd5bc5162f22p2tiq06.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
